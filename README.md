@@ -62,10 +62,15 @@ pip install -r requirements.txt
 uvicorn app:app --reload
 ```
 
-4. Access interactive docs
+4. Access the service
 
 ```arduino
-http://127.0.0.1:8000/docs
+http://127.0.0.1:8000/health
+http://127.0.0.1:8000/logs
+```
+
+```bash
+The `/health` endpoint confirms model readiness, and `/logs` shows recent summarization requests.
 ```
 
 ---
