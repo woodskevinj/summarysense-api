@@ -1,4 +1,4 @@
-# 🧠 SummarySense API – Real-Time Sentiment Analysis
+# 🧠 SummarySense API – Text Summarization
 
 A lightweight **FastAPI microservice** that takes long text (articles, reviews, transcripts) and returns concise summaries using Hugging Face’s transformers library.
 
