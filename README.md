@@ -8,6 +8,8 @@ A lightweight **FastAPI microservice** that takes long text (articles, reviews, 
 
 A lightweight **FastAPI microservice** that takes long text (articles, reviews, transcripts) and returns concise summaries using Hugging Face’s transformers library.
 
+---
+
 ## 🧠 Tech Stack
 
 | Component     | Technology                                             |
