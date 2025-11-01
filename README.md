@@ -105,9 +105,17 @@ curl -X POST "http://127.0.0.1:8000/summarize" \
 
 ## 📈 Current Progress
 
-✅ Local FastAPI app running and tested
-✅ Adaptive summarization logic implemented
-⬜ Dockerfile build and image push (next step)
+- [x] Project setup
+
+- [x] Local FastAPI app running and tested
+
+- [x] Adaptive summarization logic implemented
+
+- [ ] Add logging, /logs, /health, and /info endpoints
+
+- [ ] Containerize with Docker
+
+- [ ] Deploy to AWS ECS
 
 ---
 
