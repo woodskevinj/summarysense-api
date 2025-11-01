@@ -38,3 +38,9 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+
+# ======================================================
+# Jupyter notebook checkpoints
+# ======================================================
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
