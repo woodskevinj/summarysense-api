@@ -105,11 +105,11 @@ curl -X POST "http://127.0.0.1:8000/summarize" \
 
 ## 📈 Current Progress
 
-- [x] Project setup
+- ✅ Project setup
 
-- [x] Local FastAPI app running and tested
+- ✅ Local FastAPI app running and tested
 
-- [x] Adaptive summarization logic implemented
+- ✅ Adaptive summarization logic implemented
 
 - [ ] Add logging, /logs, /health, and /info endpoints
 
